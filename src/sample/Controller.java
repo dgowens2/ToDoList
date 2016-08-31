@@ -1,6 +1,5 @@
 package sample;
 
-import com.sun.org.apache.bcel.internal.generic.RETURN;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
